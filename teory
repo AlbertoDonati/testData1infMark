@@ -1,0 +1,17 @@
+Machine Learning is a sort of branch of Artificial Intelligence.
+Machine Learing is strictly correlated to A.I., but it is not the only method to solve A.I. problems.
+Data Science is related to data, it is possible to use Machine Learning or other A.I. method to trasnform and use data.
+
+Linear Regression is a prediction method to predict variables (Y) from a set of variables given (X).
+
+Orecion and recall is used when I want to know how good is my statistic study.
+Precision is the total fo True Positive / True Positive + False Positive.
+Recall is the total fo True Positive / True Positive + False Negative.
+
+Train set is the set where I train my dataset with a ML method.
+After the train I need to validate my ML model, so I use a part my dataset to validate my ML model.
+If my ML model in train and validate sets have done good predictions I go to test.
+I take another dataset for test set (different form the 1st), and I use my ML model with these data to see if my ML model is working well.
+
+The p-value is a value which is a condition to accept or not a certain data of a statistic test.
+The p-value cannot be always reliable becuase it depends by the threshold value.
